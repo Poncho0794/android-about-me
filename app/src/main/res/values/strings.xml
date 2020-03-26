@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Alfonso Banda</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">
+        Hi, I\'m Alfonso Banda
+        \n\n I love videogames
+        \n and learning new things like android development and components architecture
+        \n Other thinks that I like is watching Anime and read Manga,
+        \n I don\'t like people who are very arrogant
+         \n\n I love videogames
+        \n and learning new things like android development and components architecture
+        \n Other thinks that I like is watching Anime and read Manga,
+        \n I don\'t like people who are very arrogant
+         \n\n I love videogames
+        \n and learning new things like android development and components architecture
+        \n Other thinks that I like is watching Anime and read Manga,
+        \n I don\'t like people who are very arrogant</string>
+    <string name="aboutme_image"> About me image</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">DONE</string>
+</resources>
